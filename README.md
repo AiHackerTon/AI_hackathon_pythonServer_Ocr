@@ -43,7 +43,6 @@ pip install -r requirements.txt
 프로젝트 루트에 .env 파일 생성:
 
 env
-코드 복사
 OPENAI_API_KEY=sk-xxxx...
 GOOGLE_APPLICATION_CREDENTIALS=backend/gcp-key.json
 
